@@ -4,3 +4,4 @@ flask-sqlalchemy
 flask-marshmallow
 passlib
 marshmallow-sqlalchemy
+marshmallow == 2.21.0
