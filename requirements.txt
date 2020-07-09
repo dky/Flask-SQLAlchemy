@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask-marshmallow
+passlib
+marshmallow-sqlalchemy
